@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "strategycorps-func-email", "strategycorps-func-email.csproj", "{14535B11-DBAE-4109-ACEA-3A29DBE3D57E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AE792C7-C3D5-4F54-801F-BC5E496058E4}"
+	ProjectSection(SolutionItems) = preProject
+		azuredeploy.json = azuredeploy.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14535B11-DBAE-4109-ACEA-3A29DBE3D57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14535B11-DBAE-4109-ACEA-3A29DBE3D57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14535B11-DBAE-4109-ACEA-3A29DBE3D57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14535B11-DBAE-4109-ACEA-3A29DBE3D57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31289640-A269-4A49-854C-0C0A00DE33E6}
+	EndGlobalSection
+EndGlobal
